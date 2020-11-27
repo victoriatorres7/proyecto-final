@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
+
+body{
+   font-family: 'Poppins', sans-serif;
+   background-color: #f4f0ed;
+}
+.card{
+  margin-top: : 25px;
+margin-left: 15px;
+margin-right: 15px;
+margin-bottom: 25px;
+}
+h2,h5{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #dca4b8;
+}
+#navbar{
+  font-family: 'Poppins', sans-serif;
+  background-color: #fff;
+}
+.container{
+  position: center;
+}
